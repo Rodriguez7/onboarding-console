@@ -1,0 +1,9 @@
+Customer ID,E-mail,First Name,Surname,Company Name,Tier,Monthly Revenue,Signup,Country Code,Phone
+NW-1001,ana.silva@northwind.example,Ana,Silva,Northwind Traders,Pro,1200,2024-01-15,PT,+351 21 123 4567
+NW-1002,ben.okafor@northwind.example,Ben,Okafor,Northwind Traders,enterprise,"5,400",03/02/2023,NG,+234 803 555 0100
+NW-1003,chloe.martin@northwind.example,Chloé,Martin,Northwind Traders,starter,49,2025-06-30,FR,
+NW-1004,dmitri@northwind,Dmitri,Ivanov,Northwind Traders,Pro,1200,2024-02-11,DE,+49 30 1234567
+NW-1005,eva.lund@northwind.example,Eva,Lund,Northwind Traders,platinum,900,2024-05-01,SE,+46 8 123 456
+NW-1006,farah.khan@northwind.example,Farah,Khan,Northwind Traders,free,0,2024-13-01,GBR,
+NW-1002,dup.record@northwind.example,Duplicate,Row,Northwind Traders,free,0,2024-01-01,US,
+NW-1008,george.lee@northwind.example,George,Lee,Northwind Traders,Enterprise,12000,2022-11-20,US,(415) 555-0199
