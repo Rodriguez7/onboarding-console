@@ -2,6 +2,10 @@
 
 A platform for **implementation specialists** to take a new customer from configuration to go-live, and keep an eye on the integration afterwards.
 
+![Field mapping step: columns from an uploaded CSV are matched to the platform schema automatically](docs/screenshot-import-mapping.jpg)
+
+*Not deployed. To try it, run `docker compose up --build` (see Quick start) and upload `samples/customers.csv`.*
+
 ```
 Create workspace → Import CSV → Map fields → Credentials & webhooks → Validation & integration tests
    → Fix failed records / webhook errors → UAT checklist → Go live → Handover document → Monitoring
